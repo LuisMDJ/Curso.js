@@ -51,29 +51,29 @@ let cuentas = null;
 let ids = Symbol("-666");
 let numeroGrandeX = Infinity;
 // Definicion del tipo de dato
-console.log(typeof nombreP);
-console.log(typeof apellidoP);
-console.log(typeof nacionalidadP);
-console.log(typeof edadP);
-console.log(typeof añoNacimiento);
-console.log(typeof esMayordeEdadX);
-console.log(typeof esGeneracionZ);
-console.log(typeof dinero);
-console.log(typeof cuentas);
-console.log(typeof ids);
-console.log(typeof numeroGrandeX);
+console.log(typeof nombreP); // string
+console.log(typeof apellidoP); // string
+console.log(typeof nacionalidadP); // string
+console.log(typeof edadP); // number
+console.log(typeof añoNacimiento); // number
+console.log(typeof esMayordeEdadX); // boolean
+console.log(typeof esGeneracionZ);  // boolean
+console.log(typeof dinero); // undefined
+console.log(typeof cuentas);    // object
+console.log(typeof ids);        // symbol
+console.log(typeof numeroGrandeX); // number
 // Imprimir en la consola
-console.log(nombreP);
-console.log(apellidoP);
-console.log(nacionalidadP);
-console.log(edadP);
-console.log(añoNacimiento);
-console.log(esMayordeEdadX);
-console.log(esGeneracionZ);
-console.log(dinero);
-console.log(cuentas);
-console.log(ids);
-console.log(numeroGrandeX);
+console.log(nombreP); // Sergio
+console.log(apellidoP); // Garcia
+console.log(nacionalidadP); // Argentino
+console.log(edadP); // 42
+console.log(añoNacimiento); // 1983
+console.log(esMayordeEdadX); // true
+console.log(esGeneracionZ); // false
+console.log(dinero); // undefined
+console.log(cuentas); // null
+console.log(ids); // symbol
+console.log(numeroGrandeX); // Infinity
 
 /**
  * Practica de los datos compuestos
