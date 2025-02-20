@@ -28,4 +28,8 @@ while (i < frutasW.length) {
     i++;
 }
 //Imprimir el objeto de conteo
+<<<<<<< HEAD
 console.log("Conteo de frutas:", contadorFrutasW);
+=======
+console.log("Conteo de frutas:", contadorFrutasW);
+>>>>>>> 92aaab5bba2ee23b24a2b0e65046fb3bf3f791e6
