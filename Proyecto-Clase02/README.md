@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+Updated upstream
 En esta clase se abordaron diversos conceptos fundamentales de JavaScript relacionados con tipos de datos, operaciones, condicionales y estructuras de control. A continuación se detallan los puntos clave de cada sección:
 
 Tipos de Datos (Repaso):
@@ -80,4 +80,4 @@ Adivinar la estación del año: Se genera un número aleatorio que representa un
 
 Conclusión:
 La clase presento un enfoque integral para entender y aplicar conceptos básicos de programación en JavaScript, como tipos de datos, operaciones aritméticas, condicionales, y estructuras de control. A través de ejemplos prácticos y ejercicios.
->>>>>>> Stashed changes
+Stashed changes
